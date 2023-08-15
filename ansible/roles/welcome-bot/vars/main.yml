@@ -1,0 +1,4 @@
+---
+image: 'gitlab.office.myjet.tech:5000/mysky/infra/welcome_bot/welcome-bot'
+
+registry_url: 'gitlab.office.myjet.tech:5000'
